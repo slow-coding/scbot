@@ -12,7 +12,7 @@ A practical AI Agent System continuously integrates several mainstream framework
 | Chat UI | Streamlit |
 | Local Run | LM Studio (or other OpenAI proxy) |
 
-This repository is still under rapid and continuous development.
+> This repository is still under rapid and continuous development.
 
 ## Requrements:
 Python 3.12
