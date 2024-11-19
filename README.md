@@ -1,7 +1,7 @@
 # scbot
 A practical AI Agent System continuously integrates several mainstream frameworks and combines them in an organic manner.
 
-==My goal== is to integrate the resources of the AI open-source ecosystem and create a truly user-friendly personal local Bot.
+**My goal** is to integrate the resources of the AI open-source ecosystem and create a truly user-friendly personal local Bot.
 This repository is still under rapid and continuous development.
 
 | Component | Tool/Framework |
