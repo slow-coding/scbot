@@ -3,7 +3,7 @@ A practical AI Agent System continuously integrates several mainstream framework
 
 Now use the combination of **LangGraph** + **Streamlit** to form a playground for Multi-Agent + Chatbot. You can add Local LLM in models.py through **LM Studio**.
 
-- Core Framework: LangGraph
+- Core Framework: LangChain
 - MultiAgent: LangGraph
 - Chat UI: Streamlit
 - Local Run: LM Studio (or other openai proxy)
