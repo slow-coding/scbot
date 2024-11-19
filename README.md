@@ -6,6 +6,7 @@ A practical AI Agent System continuously integrates several mainstream framework
 
 | Component | Tool/Framework |
 |----|----|
+| Language | 100% Python |
 | Core Framework | LangChain |
 | MultiAgent | LangGraph |
 | Chat UI | Streamlit |
