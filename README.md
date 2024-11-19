@@ -7,7 +7,7 @@ A practical AI Agent System continuously integrates several mainstream framework
 | Core Framework | LangChain |
 | MultiAgent | LangGraph |
 | Chat UI | Streamlit |
-| Local Run | LM Studio (or other openai proxy) |
+| Local Run | LM Studio (or other OpenAI proxy) |
 
 ## Requrements:
 Python 3.12
